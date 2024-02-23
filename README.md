@@ -10,3 +10,4 @@
 <br>
 
 ## Notion
+[Chapter 01 타입스크립트 시작하기](https://leeseoyun.notion.site/Chapter-01-71deef49b2ca4d9fb353910ffe58fdd8?pvs=4)
